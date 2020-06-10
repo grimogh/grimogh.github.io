@@ -1,15 +1,4 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "XCSQ883CT6.com.dragonshead.grimogh",
-        "paths": [
-          "*"
-        ]
-      }
-    ]
-  },
   "webcredentials": {
      "apps": [ "XCSQ883CT6.com.dragonshead.grimogh" ]
   }
