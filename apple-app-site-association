@@ -9,5 +9,8 @@
         ]
       }
     ]
+  },
+  "webcredentials": {
+     "apps": [ "XCSQ883CT6.com.dragonshead.grimogh" ]
   }
 }
